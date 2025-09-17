@@ -1,0 +1,11 @@
+nlp-feedback-system/
+├── data/
+│   └── reviews.csv
+├── app/
+│   ├── model.py           # Contains the TensorFlow model
+│   └── api.py             # Flask API
+├── notebooks/
+│   └── nlp_exploration.ipynb
+├── models/
+│   └── sentiment_model.h5
+└── README.md
